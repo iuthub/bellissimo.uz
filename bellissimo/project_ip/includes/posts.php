@@ -1,5 +1,0 @@
-<?php
-	$posts =array(
-		array(
-			))
-?>
